@@ -1,3 +1,3 @@
-module ysmtegsr/vercel-go-serverless-hands-on
+module ysmtegsr/vercel-go-serverless-sample
 
 go 1.16
